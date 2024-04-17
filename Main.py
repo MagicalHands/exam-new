@@ -5,7 +5,7 @@ import streamlit as st
 from API import get_prediction
 
 # path to trained model
-model_path = r"C:\Users\Calvin\Desktop\phishing dp project exam\Phishing-Attack-Domain-Detection\models\Malicious_URL_Prediction.h5"
+model_path = r"/workspace/exam-new/Colab Notebooks/Malicious_URL_Prediction.h5"
 
 # input url 123
 #url = "www.tesla.com/"
