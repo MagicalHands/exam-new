@@ -5,7 +5,7 @@ Enter any URL and our Machine Learning model will scan the URL and tell you if i
 <br/>
 
 <div align="center">
-<img src="/Imgs/phishr-demo3.gif" width="90%"/>
+<img src="/Imgs/WhatsApp_Image_2024-05-29_at_16.53.30_2b3d9ae1.jpg" width="90%"/>
 </div>
 
 ## 🎯 Objective
