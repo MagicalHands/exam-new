@@ -11,9 +11,9 @@ model_path = r"/workspace/exam-new/models/Malicious_URL_Prediction.h5"
 #url = "www.tesla.com/"
 
 def main():
-    st.title("CyberKavach Phishing URL Detector")
+    st.title("CyberKavach")
     html_temp = """
-    <div style="background-color:#025246 ;padding:10px">
+    <div style="background-color:#36517e ;padding:10px">
     <h2 style="color:white;text-align:center;">Phishing URL Detector </h2>
     </div>
     """
