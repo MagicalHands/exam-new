@@ -20,7 +20,7 @@ def main():
 
     st.markdown(html_temp, unsafe_allow_html=True)
 
-    url = st.text_input("Enter ur url","Type Here")
+    url = st.text_input("Enter suspicious url","Type Here")
     
     safe_html="""  
       <div style="background-color:#00ff95;padding:30px >
